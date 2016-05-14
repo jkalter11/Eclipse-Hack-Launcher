@@ -4,7 +4,7 @@ Ghost Hack - hack for Minecraft PE (for Android), it has lots of functions with 
 
 I'm not responsible for BANNED accounts on servers ツ  .
 
-### Cheats:
+## Cheats:
 
 ### Combat:
 - [ ] Kill Aura
