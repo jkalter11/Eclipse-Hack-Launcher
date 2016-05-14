@@ -1,2 +1,2 @@
-# Ghost-Hack-Launcher-REBORN-
+# Ghost-Hack-Launcher-[REBORN]
 Hack Launcher [ID]
