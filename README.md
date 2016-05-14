@@ -1,3 +1,5 @@
+# Release - later [50% / 100% ]
+
 # [REBORN] Ghost Hack Launcher v2.6
 
 Ghost Hack - hack for Minecraft PE (for Android), it has lots of functions with like the PC version cheats such as "Huzuni", "Resilience", "Nodus", "Wurst", "Wolfram" and other...
