@@ -40,11 +40,11 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] Show XYZ
 
 ### Render:
-- [ ] Player ESP
-- [ ] Mob ESP
-- [ ] Tracers
-- [ ] Chest ESP
-- [ ] Projectiles
+- [ ] Player ESP (Required OpenGL ES)
+- [ ] Mob ESP (Required OpenGL ES)
+- [ ] Tracers (Required OpenGL ES)
+- [ ] Chest ESP (Required OpenGL ES)
+- [ ] Projectiles (Required OpenGL ES)
 - [x] No Fire Effect
 - [ ] Name Tags
 - [x] X-Ray
