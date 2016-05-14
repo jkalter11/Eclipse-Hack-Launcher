@@ -1,4 +1,6 @@
-# Release - later [50% / 100% ]
+# Release - later...
+# Progress - [50% / 100%]
+# UI Design - [90% / 100%]
 
 # [REBORN] Ghost Hack Launcher v2.6
 
