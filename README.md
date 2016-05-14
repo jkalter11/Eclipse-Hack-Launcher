@@ -13,8 +13,8 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] Saddle Up
 
 ### Movement:
-- [ ] Fast Ladder
-- [ ] Flight
+- [x] Fast Ladder
+- [x] Flight
 - [ ] No Slowdown
 - [ ] Auto Sprint
 - [ ] Anti Knockback
