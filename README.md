@@ -7,52 +7,53 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ## Cheats:
 
 ### Combat:
-- [ ] Kill Aura
+- [ ] KillAura
 - [x] Velocity
-- [x] Auto Attack
-- [x] Saddle Up
+- [x] AutoAttack
+- [x] SaddleUp
 
 ### Movement:
-- [x] Fast Ladder
+- [x] FastLadder
 - [x] Flight
-- [ ] No Slowdown
-- [ ] Auto Sprint
-- [ ] Anti Knockback
-- [x] Speed Hack
-- [x] High Jump
+- [ ] NoSlowdown
+- [ ] AutoSprint
+- [ ] AntiKnockback
+- [x] SpeedHack
+- [x] HighJump
 - [x] Jesus
-- [x] No Fall
-- [x] No Web
+- [x] NoFall
+- [x] NoWeb
 - [ ] Dolphin
 
 ### Player:
-- [x] Speed Mine
-- [x] Fast Eat
-- [ ] Auto Respawn
-- [x] Auto Disconnect
+- [x] SpeedMine
+- [x] FastEat
+- [ ] AutoRespawn
+- [x] AutoDisconnect
+- [ ] FreeCam
 - [x] Sneak
 - [x] Derp
 
 ### World:
 - [x] Timer
-- [x] Only Day
+- [x] OnlyDay
 - [x] Brightness
-- [x] Show XYZ
+- [x] ShowXYZ
 
 ### Render:
-- [ ] Player ESP (Required OpenGL ES)
-- [ ] Mob ESP (Required OpenGL ES)
-- [ ] Tracers (Required OpenGL ES)
-- [ ] Chest ESP (Required OpenGL ES)
-- [ ] Projectiles (Required OpenGL ES)
-- [x] No Fire Effect
-- [ ] Name Tags
+- [ ] PlayerESP (Required OpenGLES)
+- [ ] MobESP (Required OpenGLES)
+- [ ] Tracers (Required OpenGLES)
+- [ ] ChestESP (Required OpenGLES)
+- [ ] Projectiles (Required OpenGLES)
+- [x] NoFireEffect
+- [ ] NameTags
 - [x] X-Ray
 
 ### Settings:
-- [ ] Kill Aura Range
-- [ ] Kill Aura Speed
-- [x] Fast Ladder Speed
+- [ ] KillAura Range
+- [ ] KillAura Speed
+- [x] FastLadder Speed
 - [x] Flight Speed
 - [x] Timer Speed
-- [x] Speed Mine Speed
+- [x] SpeedMine Speed
