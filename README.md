@@ -1,4 +1,4 @@
-### [REBORN] Ghost Hack Launcher v2.6
+# [REBORN] Ghost Hack Launcher v2.6
 
 Ghost Hack - hack for Minecraft PE (for Android), it has lots of functions with like the PC version cheats such as "Huzuni", "Resilience", "Nodus", "Wurst", "Wolfram" and other...
 
@@ -6,13 +6,13 @@ I'm not responsible for BANNED accounts on servers ツ  .
 
 ### Cheats:
 
-# Combat:
+### Combat:
 - [ ] Kill Aura
 - [x] Velocity
 - [x] Auto Attack
 - [x] Saddle Up
 
-# Movement:
+### Movement:
 - [ ] Fast Ladder
 - [ ] Flight
 - [ ] No Slowdown
@@ -25,7 +25,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] No Web
 - [ ] Dolphin
 
-# Player:
+### Player:
 - [x] Speed Mine
 - [x] Fast Eat
 - [ ] Auto Respawn
@@ -33,13 +33,13 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] Sneak
 - [x] Derp
 
-# World:
+### World:
 - [x] Timer
 - [x] Only Day
 - [x] Brightness
 - [x] Show XYZ
 
-# Render:
+### Render:
 - [ ] Player ESP
 - [ ] Mob ESP
 - [ ] Tracers
@@ -49,7 +49,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] Name Tags
 - [x] X-Ray
 
-# Settings:
+### Settings:
 - [ ] Kill Aura Range
 - [ ] Kill Aura Speed
 - [ ] Fast Ladder Speed
