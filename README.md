@@ -52,7 +52,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### Settings:
 - [ ] Kill Aura Range
 - [ ] Kill Aura Speed
-- [ ] Fast Ladder Speed
-- [ ] Flight Speed
+- [x] Fast Ladder Speed
+- [x] Flight Speed
 - [x] Timer Speed
 - [x] Speed Mine Speed
