@@ -4,7 +4,7 @@ Ghost Hack - hack for Minecraft PE (for Android), it has lots of functions with 
 
 I'm not responsible for BANNED accounts on servers ツ  .
 
-![Ghost Hack](https://www.dropbox.com/s/6yid76nwiwcojot/GhostHack_reborn-image.png?dl=1)
+![Ghost Hack](https://www.dropbox.com/s/6м?????????)
 
 ## Cheats:
 
