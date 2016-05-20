@@ -1,9 +1,9 @@
 # Release - later...
 ## Progress - [50% / 100%]
 
-# [REBORN] Ghost Hack Launcher v2.6
+# [REBORN] Eclipse Hack Launcher v2.6 (aka Ghost Hack Launcher)
 
-Ghost Hack - hack for Minecraft PE (for Android), it has lots of functions with like the PC version cheats such as "Huzuni", "Resilience", "Nodus", "Wurst", "Wolfram" and other...
+Eclipse - hack for Minecraft PE (for Android), it has lots of functions with like the PC version cheats such as "Huzuni", "Resilience", "Nodus", "Wurst", "Wolfram" and other...
 
 I'm not responsible for BANNED accounts on servers ツ  .
 
