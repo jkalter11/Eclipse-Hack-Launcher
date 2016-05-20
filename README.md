@@ -16,6 +16,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] AutoSword
 - [ ] AutoTool
 - [ ] AutoArmor
+- [ ] BowAimbot
 - [x] AutoAttack
 - [x] Velocity
 - [x] SaddleUp
@@ -23,6 +24,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### Movement:
 - [x] FastLadder
 - [x] Flight
+- [ ] IceMovement
 - [ ] NoSlowdown
 - [ ] AutoSprint
 - [ ] AntiKnockback
