@@ -1,6 +1,5 @@
 # Release - later...
 ## Progress - [50% / 100%]
-## UI Design - [90% / 100%]
 
 # [REBORN] Ghost Hack Launcher v2.6
 
@@ -16,6 +15,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] Criticals
 - [ ] AutoSword
 - [ ] AutoTool
+- [ ] AutoArmor
 - [x] AutoAttack
 - [x] Velocity
 - [x] SaddleUp
@@ -47,9 +47,9 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### World:
 - [x] Timer
 - [x] OnlyDay
-- [x] Full Bright
+- [x] FullBright
 - [x] ShowXYZ
-- [x] Build Hack
+- [x] BuildHack
 - [ ] Nuker
 
 ### Render:
@@ -65,7 +65,6 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### Misc:
 - [ ] Twerk
 - [x] GoPro
-- [x] Inverted Screen
 - [ ] AutoSwitch
 - [x] Derp
 
