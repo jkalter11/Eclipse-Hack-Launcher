@@ -7,6 +7,8 @@ Eclipse - hack for Minecraft PE (for Android), it has lots of functions with lik
 
 I'm not responsible for BANNED accounts on servers ツ  .
 
+![Eclipse Hack Launcher] (https://raw.githubusercontent.com/Light-Team/Eclipse-Hack-Launcher/master/icons/drawable/ic_launcher_web.png)
+
 ## Cheats:
 
 ### Combat:
