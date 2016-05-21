@@ -17,7 +17,6 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] AutoTool
 - [ ] AutoArmor
 - [ ] BowAimbot
-- [x] AutoAttack
 - [x] Velocity
 - [x] SaddleUp
 
@@ -52,6 +51,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] FullBright
 - [x] ShowXYZ
 - [x] BuildHack
+- [ ] NoWeather
 - [ ] Nuker
 
 ### Render:
@@ -71,6 +71,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] Derp
 
 ### Settings:
+- [ ] Keybinds
 - [ ] KillAura Range
 - [ ] KillAura Speed
 - [x] FastLadder Speed
