@@ -19,7 +19,6 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] AutoTool
 - [ ] AutoArmor
 - [ ] BowAimbot
-- [x] Velocity
 - [x] SaddleUp
 
 ### Movement:
@@ -67,9 +66,9 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] X-Ray
 
 ### Misc:
-- [ ] Twerk
+- [x] Twerk
 - [x] GoPro
-- [ ] AutoSwitch
+- [x] AutoSwitch
 - [x] Derp
 
 ### Settings:
