@@ -1,5 +1,5 @@
 # Release - later...
-## Progress - [50% / 100%]
+## Progress - [65% / 100%]
 
 # [REBORN] Eclipse Hack Launcher v2.6 (aka Ghost Hack Launcher)
 
@@ -14,9 +14,9 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### Combat:
 - [ ] KillAura
 - [ ] Aimbot
-- [ ] Criticals
-- [ ] AutoSword
-- [ ] AutoTool
+- [x] Criticals
+- [x] AutoSword
+- [x] AutoTool
 - [ ] AutoArmor
 - [ ] BowAimbot
 - [x] SaddleUp
@@ -33,14 +33,14 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] Jesus
 - [x] NoFall
 - [x] AntiWeb
-- [ ] Dolphin
+- [x] Dolphin
 - [ ] Spider
-- [ ] AutoWalk
+- [x] AutoWalk
 
 ### Player:
 - [x] FastBreak
 - [x] FastEat
-- [ ] AutoRespawn
+- [x] AutoRespawn
 - [x] AutoDisconnect
 - [ ] AutoFish
 - [ ] FreeCam
@@ -52,8 +52,8 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] FullBright
 - [x] ShowXYZ
 - [x] BuildHack
-- [ ] NoWeather
-- [ ] Nuker
+- [x] NoWeather
+- [x] Nuker
 
 ### Render:
 - [ ] PlayerESP (Required OpenGLES)
