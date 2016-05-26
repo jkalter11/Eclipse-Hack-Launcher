@@ -1,6 +1,3 @@
-# Release - later...
-## Progress - [65% / 100%]
-
 # [REBORN] Eclipse Hack Launcher v2.6 (aka Ghost Hack Launcher)
 
 Eclipse - hack for Minecraft PE (for Android), it has lots of functions with like the PC version cheats such as "Huzuni", "Resilience", "Nodus", "Wurst", "Wolfram" and other...
@@ -24,7 +21,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### Movement:
 - [x] FastLadder
 - [x] Flight
-- [ ] IceMovement
+- [ ] AntiIce
 - [ ] NoSlowdown
 - [ ] AutoSprint
 - [ ] AntiKnockback
