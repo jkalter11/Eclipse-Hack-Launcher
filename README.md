@@ -21,7 +21,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 ### Movement:
 - [x] FastLadder
 - [x] Flight
-- [ ] AntiIce
+- [ ] NoIce
 - [ ] NoSlowdown
 - [ ] AutoSprint
 - [ ] AntiKnockback
@@ -57,7 +57,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] MobESP (Required OpenGLES)
 - [ ] Tracers (Required OpenGLES)
 - [ ] ChestESP (Required OpenGLES)
-- [ ] Projectiles (Required OpenGLES)
+- [ ] Trajectories (Required OpenGLES)
 - [x] NoFireEffect
 - [ ] NameTags
 - [x] X-Ray
@@ -66,10 +66,10 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [x] Twerk
 - [x] GoPro
 - [x] AutoSwitch
+- [ ] FancyChat
 - [x] Derp
 
 ### Settings:
-- [ ] Keybinds
 - [ ] KillAura Range
 - [ ] KillAura Speed
 - [x] FastLadder Speed
