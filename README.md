@@ -1,10 +1,13 @@
-# [REBORN] Eclipse Hack Launcher v2.6 (aka Ghost Hack Launcher)
+# Eclipse Hack Launcher v1.0.1
+### (aka Ghost Hack Launcher)
 
 Eclipse - hack for Minecraft PE (for Android), it has lots of functions with like the PC version cheats such as "Huzuni", "Resilience", "Nodus", "Wurst", "Wolfram" and other...
 
 I'm not responsible for BANNED accounts on servers ツ  .
 
-![Eclipse Hack Launcher] (https://raw.githubusercontent.com/Light-Team/Eclipse-Hack-Launcher/master/icons/drawable/ic_launcher_web.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Light-Team/Eclipse-Hack-Launcher/master/icons/drawable/ic_launcher_web.png?raw=true" alt="Eclipse Hack Launcher"/>
+</p>
 
 ## Cheats:
 
@@ -57,7 +60,7 @@ I'm not responsible for BANNED accounts on servers ツ  .
 - [ ] MobESP (Required OpenGLES)
 - [ ] Tracers (Required OpenGLES)
 - [ ] ChestESP (Required OpenGLES)
-- [ ] Trajectories (Required OpenGLES)
+- [ ] Projectiles (Required OpenGLES)
 - [x] NoFireEffect
 - [ ] NameTags
 - [x] X-Ray
